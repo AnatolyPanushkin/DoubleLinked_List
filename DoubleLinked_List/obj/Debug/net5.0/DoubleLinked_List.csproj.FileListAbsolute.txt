@@ -1,0 +1,16 @@
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.exe
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.deps.json
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.runtimeconfig.json
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.runtimeconfig.dev.json
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.dll
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\ref\DoubleLinked_List.dll
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\bin\Debug\net5.0\DoubleLinked_List.pdb
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.csproj.AssemblyReference.cache
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.AssemblyInfoInputs.cache
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.AssemblyInfo.cs
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.csproj.CoreCompileInputs.cache
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.dll
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\ref\DoubleLinked_List.dll
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.pdb
+D:\Data\AsyncStartExamples.zip_files\DoubleLinked_List\DoubleLinked_List\obj\Debug\net5.0\DoubleLinked_List.genruntimeconfig.cache
